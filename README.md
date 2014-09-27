@@ -1,6 +1,4 @@
 # Debugging Node
-=============
-
 ## JavaScript and Bash techniques to assist in debugging Node.
 
 I created this project for a presentation I gave to developers on Node. Here you'll find how to access the console timer, write console warn and error statements, traverse an object in the console, force a breakpoint, and show a stack trace in Node.
