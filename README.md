@@ -68,9 +68,9 @@ Trace
 ````
 ## Recommended Debuggers
 I highly recommend
-[node-inspector](https://github.com/node-inspector/node-inspector "node-inspector") for the best GUI debugging experience using Blink Developer Tools.
+[node-inspector](https://github.com/node-inspector/node-inspector "node-inspector") for the best GUI-based debugging experience. It uses Blink Developer Tools.
 
-If you're more hardcore, you can also use the built-in [node-inspector](http://nodejs.org/api/debugger.html "node debug").
+If you're more hardcore, you can also use the built-in [node debugger](http://nodejs.org/api/debugger.html "node debugger").
 
 ## Contributions
 Have any corrections or suggestions? Please feel free to contribute or contact me!
